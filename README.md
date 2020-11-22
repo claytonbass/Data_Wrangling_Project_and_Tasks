@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this repository is to act as a source for all of the code that I have written for QBS 181/QSS 30.09 at Dartmouth College in the Fall of 2020. Through this repository (for which each student in QBS 181/QSS 30.09, including me, has received express permission to create and make public, as part of our final assignment), all of my code and approaches are available. 
+The purpose of this repository is to act as a source for all of the code that I have written for QBS 181/QSS 30.09 at Dartmouth College in the Fall of 2020. Through this repository (for which each student in QBS 181/QSS 30.09, including me, has received express permission to create and make public, as part of our final assignment), I can keep track of previous approaches and code strategies I've used.
 
 ## Statement of Permission
 
