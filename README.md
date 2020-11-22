@@ -6,7 +6,7 @@ The purpose of this repository is to act as a source for all of the code that I 
 
 ## Statement of Permission
 
-**PLEASE NOTE: I have been given express permission and instruction—as a student in Professor Ramesh Yapalparvi’s QBS 181/QSS 30.09 course in the Fall of 2020 at Dartmouth College in Hanover, NH—to make my work public in this GitHub repository.**
+**PLEASE NOTE: I have been given express permission and instruction from Professor Ramesh Yapalparvi—as a student in his QBS 181/QSS 30.09 course in the Fall of 2020 at Dartmouth College in Hanover, NH—to make my work public in this GitHub repository.**
 
 ## Descriptions of Each Sub-Directory
 
